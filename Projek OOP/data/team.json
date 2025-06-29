@@ -1,0 +1,70 @@
+{
+    "name": "My Basketball Team",
+    "coach": {
+        "name": "Royan",
+        "age": 27,
+        "experience": 4
+    },
+    "players": [
+        {
+            "name": "Wildan",
+            "age": 22,
+            "number": 9,
+            "position": "Point Guard"
+        },
+        {
+            "name": "Bima",
+            "age": 19,
+            "number": 34,
+            "position": "Power Forward"
+        },
+        {
+            "name": "Naufal",
+            "age": 18,
+            "number": 21,
+            "position": "Center"
+        },
+        {
+            "name": "Davin",
+            "age": 20,
+            "number": 8,
+            "position": "Shooting Guard"
+        },
+        {
+            "name": "Ilham",
+            "age": 22,
+            "number": 17,
+            "position": "Point Guard"
+        },
+        {
+            "name": "Rizky",
+            "age": 21,
+            "number": 13,
+            "position": "Small Forward"
+        },
+        {
+            "name": "Aditya",
+            "age": 24,
+            "number": 99,
+            "position": "Power Forward"
+        },
+        {
+            "name": "Arjuna",
+            "age": 18,
+            "number": 79,
+            "position": "Shooting Guard"
+        },
+        {
+            "name": "dbest",
+            "age": 21,
+            "number": 89,
+            "position": "Power Forward"
+        },
+        {
+            "name": "Wildan Fadillah",
+            "age": 17,
+            "number": 67,
+            "position": "Center"
+        }
+    ]
+}
